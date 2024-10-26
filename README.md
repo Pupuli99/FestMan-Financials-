@@ -17,12 +17,10 @@ such as: Sales Amount Units Sold Sale Price Discounts Profit Country Segment Pro
 Visulas and Insights :-
 a) Sales and Orders Growth
 Sales: ₹9,23,11,095, a remarkable increase of 249.46% compared to the previous year’s ₹2,64,15,256. Orders: 861,132 orders, up by 225.36% from the previous year's 264,674 orders.
-
 Conclusion: Both sales and order volume have seen explosive growth, indicating strong market demand and potential expansion in customer base.
 
 b) Profit and Profit Margin
 Profit: ₹1,30,15,238, a 235.58% increase from the previous year’s ₹38,78,465. Profit Margin: 14.1%, slightly down by 3.97% from last year’s 14.7%.
-
 Conclusion: While overall profits have surged significantly, the decrease in profit margin may indicate rising costs or increased discounting strategies that need further analysis for
 optimization.
 
