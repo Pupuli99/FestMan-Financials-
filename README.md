@@ -15,6 +15,7 @@ The data used in this analysis consists of historical sales, profit, and discoun
 such as: Sales Amount Units Sold Sale Price Discounts Profit Country Segment Products,.
 
 Visulas and Insights :-
+
 a) Sales and Orders Growth
 Sales: ₹9,23,11,095, a remarkable increase of 249.46% compared to the previous year’s ₹2,64,15,256. Orders: 861,132 orders, up by 225.36% from the previous year's 264,674 orders.
 
