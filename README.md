@@ -25,8 +25,7 @@ Conclusion: While overall profits have surged significantly, the decrease in pro
 optimization.
 
 c) Orders and Profit Margin by Country
-Top Countries by Orders: Canada (247K), France (241K), and the United States (233K) lead in order volume. Profit Margin by Country: Germany and France have the highest profit margins at 15.
-7% and 15.5%, respectively. The United States has the lowest profit margin at 12.0%.
+Top Countries by Orders: Canada (247K), France (241K), and the United States (233K) lead in order volume. Profit Margin by Country: Germany and France have the highest profit margins at 15.7% and 15.5%, respectively. The United States has the lowest profit margin at 12.0%.
 Conclusion: Germany and France are highly profitable markets, whereas the United States, despite strong order volume, shows lower profitability and may need attention for cost or 
 pricing strategy improvements.
 
