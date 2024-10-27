@@ -66,6 +66,7 @@ ETL Process: Used Power BI's built-in Power Query editor for data extraction and
 DAX (Data Analysis Expressions): For calculating KPIs such as profit margin, sales growth, and custom metrics. 
 
 Usage :-
+
 You can use this project to analyze historical financial data. 
 
 Create relationships among different financials matrices using the DAX functions. 
