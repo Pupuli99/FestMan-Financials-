@@ -67,6 +67,9 @@ DAX (Data Analysis Expressions): For calculating KPIs such as profit margin, sal
 
 Usage :-
 You can use this project to analyze historical financial data. 
+
 Create relationships among different financials matrices using the DAX functions. 
+
 Create custom financial reports. 
+
 Gain insights into sales, profit margins, and discount strategies for other retail or financial datasets.
