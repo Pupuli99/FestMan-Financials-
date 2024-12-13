@@ -1,10 +1,13 @@
 FINANCIAL ANALYSIS OF FESTMAN STORES USING POWER BI, ETL, AND DAX FUNCTIONS
+
 This project involves performing an in-depth financial analysis of FestMan Stores using Power BI. ETL processes were used to clean and transform the data, while advanced DAX functions enabled the extraction of key insights such as significant sales growth, profit trends, and regional performance. The analysis highlights both strong growth areas and potential opportunities for optimization.
 
 Problem Statement
+
 This project involves performing an in-depth financial analysis of FestMan Stores using Power BI. ETL processes were used to clean and transform the data, while advanced DAX functions enabled the extraction of key insights such as significant sales growth, profit trends, and regional performance. The analysis highlights both strong growth areas and potential opportunities for optimization.
 
 Flow Of Project
+
 ETL Process: Extracted data from raw sources, cleaned and transformed using Power BI for proper
 visualization.
 
@@ -13,9 +16,11 @@ DAX Functions: Utilized DAX functions to calculate KPIs like sales growth, profi
 Dashboard: Created an interactive Power BI dashboard to display financial insights, allowing for drill-downs into specific countries, segments, and product lines.
 
 Data Source
+
 The data used in this analysis consists of historical sales, profit, and discount data for FestMan Stores across different countries and market segments. The dataset includes columns such as: Sales Amount, Units Sold, Profit, Country, Segment Products,COGS,.
 
 Visualization and Insights
+
 Sales and Orders Growth
 Sales: ₹9,23,11,095, a remarkable increase of 249.46% compared to the previous year’s ₹2,64,15,256. Orders: 861,132 orders, up by 225.36% from the previous year's 264,674 orders.
 
