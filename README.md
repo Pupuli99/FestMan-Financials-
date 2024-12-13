@@ -62,7 +62,9 @@ Enterprise segment and United States market.
 
 Tools and Technologies :-
 Power BI: For data visualization and dashboard creation.
+
 ETL Process: Used Power BI's built-in Power Query editor for data extraction and transformation.
+
 DAX (Data Analysis Expressions): For calculating KPIs such as profit margin, sales growth, and custom metrics. 
 
 Usage :-
